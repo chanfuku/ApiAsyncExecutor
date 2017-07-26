@@ -1,0 +1,12 @@
+{
+    "name": "chanfuku/api-async-executor",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4" : {
+            "chanfuku\\ApiAsyncExecutor\\" : ""
+        }
+    }
+}
